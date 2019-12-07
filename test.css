@@ -1,0 +1,13 @@
+.button {
+    height: 20px;
+    width: 150px;
+    border-radius: 7px;
+    background-color: cyan;
+    color: gray;
+    text-align: center;
+}
+
+.button:active {
+    background-color: yellow;
+    color: black;
+}
